@@ -30,4 +30,3 @@ Built with:
 
 ---
 
-## 📂 Project Structure
